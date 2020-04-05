@@ -1,10 +1,7 @@
 # Octagram 
 Animates octagrams with a smooth canvas background color transition.  
-  
-<video width="1345" height="450" controls>
-  <source src="img/img.mp4" type="video/mp4"> 
-Your browser does not support the video tag.
-</video> 
+   
+<img width="1357px" height="400px"  src ="img/img.jpg">
 
 View live demo at : https://codepen.io/niitettehtsuru/pen/XWbLaOw
  
